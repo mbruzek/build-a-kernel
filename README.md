@@ -23,7 +23,8 @@ I am sure I will live to regret this decision but here goes...
 ## Resources
 
 * [The Linux Kernel Archives](https://kernel.org) - https://kernel.org
-* https://wiki.debian.org/BuildADebianKernelPackage
+* [Build a Debian Kernel](https://wiki.debian.org/BuildADebianKernelPackage) - https://wiki.debian.org/BuildADebianKernelPackage
+* [Enterprise Linux custom kernel](https://docs.rockylinux.org/guides/custom-linux-kernel/) - https://docs.rockylinux.org/guides/custom-linux-kernel/
 
 ---  
 
