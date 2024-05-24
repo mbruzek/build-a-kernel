@@ -1,10 +1,10 @@
 # Build a Kernel
 
-I read an article that was trying to convince folks that vendor kernels are
-inherently insecure. That's because Linux vendor kernels are created by 
-taking a snapshot of a specific Linux release and then backporting selected
-fixes as changes occur in the upstream git tree. Using an up-to-date Linux
-kernel release contains all the known fixes is the most secure option
+I read an article that was trying to convince folks that distribution or vendor
+kernels are inherently insecure. That's because Linux vendor kernels are
+created by taking a snapshot of a specific Linux release and then backporting
+selected fixes as changes occur in the upstream git tree. Using an up-to-date
+Linux kernel release contains all the known fixes is the most secure option
 available.
 
 While this was a controversial topic, it got me thinking about Linux kernels.
@@ -23,6 +23,7 @@ I am sure I will live to regret this decision but here goes...
 ## Resources
 
 * [The Linux Kernel Archives](https://kernel.org) - https://kernel.org
+  * [Kernel releases](https://www.kernel.org/category/releases.html) - https://www.kernel.org/category/releases.html
 * [Build a Debian Kernel](https://wiki.debian.org/BuildADebianKernelPackage) - https://wiki.debian.org/BuildADebianKernelPackage
 * [Enterprise Linux custom kernel](https://docs.rockylinux.org/guides/custom-linux-kernel/) - https://docs.rockylinux.org/guides/custom-linux-kernel/
 
